@@ -1,6 +1,8 @@
 
 
 ## 📸 Project Demo
+🎥 **Demo Video:**  
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20Demo%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/c0OkFGF2S2E?si=A7APE1qXZrV6po7w)
 
 ![Chat App Screenshot](chatapp.png)
 
